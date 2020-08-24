@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { Navbar, Nav, Container } from "react-bootstrap";
+import SwipeableRoutes from "react-swipeable-routes";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/navBar.css";
@@ -123,13 +124,15 @@ function App() {
           </Nav>
         </Container>
       </Navbar>
-      <Route exact path="/" component={LandingPage} />
-      <Route path="/about" component={AboutMe} />
-      <Route path="/skills" component={Skills} />
-      <Route path="/projects" component={Projects} />
-      <Route path="/experience" component={Experience} />
-      <Route path="/education" component={Education} />
-      <Route path="/contact" component={Contact} />
+      <SwipeableRoutes replace containerStyle={{maxHeight: "100%"}} >
+        <Route exact path="/" component={LandingPage} />
+        <Route path="/about" component={AboutMe} />
+        <Route path="/skills" component={Skills} />
+        <Route path="/projects" component={Projects} />
+        <Route path="/experience" component={Experience} />
+        <Route path="/education" component={Education} />
+        <Route path="/contact" component={Contact} />
+      </SwipeableRoutes>
     </Router>
   );
 }

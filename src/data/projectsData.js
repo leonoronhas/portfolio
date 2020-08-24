@@ -18,7 +18,7 @@ const projectsData = {
       id: 1,
       name: "LeoNoronhaSantos",
       url: "https://www.leonoronhas.com",
-      img: require("../images/website.gif"),
+      img: "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/website.gif",
       technologies: [
         "HTML",
         "CSS",
@@ -31,7 +31,7 @@ const projectsData = {
       id: 2,
       name: "FoodApp",
       url: "https://www.github.com/leonoronhas/foodApp",
-      img: require("../images/foodApp.gif"),
+      img: "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/foodApp.gif",
       technologies: [
         "JSX",
         "React Native",
@@ -44,7 +44,7 @@ const projectsData = {
       id: 3,
       name: "GuessNumberGame",
       url: "https://www.github.com/leonoronhas/GuessNumberGame",
-      img: require("../images/guessApp.gif"),
+      img: "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/guessApp.gif",
       technologies: [
         "JSX",
         "React Native",
@@ -56,7 +56,7 @@ const projectsData = {
       id: 4,
       name: "RESTful API tutorial",
       url: "https://www.linkedin.com/pulse/create-restful-api-nodejs-expressjs-mongodb-leonardo-noronha-santos/",
-      img: require("../images/restfulapi.png"),
+      img: "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/restfulapi.png",
       technologies: ["MongoDB", "Express.js", "Node.js", "RESTful API"],
     },
   ],

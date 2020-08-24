@@ -6,8 +6,6 @@ import "animate.css/animate.min.css";
 import "../css/aboutMe.css";
 import "../css/animate.css";
 
-import picture from "../images/picture.png";
-
 const AboutMe = (props) => {
   return (
     <ScrollAnimation animateIn="fadeIn">
@@ -49,7 +47,7 @@ const AboutMe = (props) => {
               </p>
             </div>
             <img
-              src={picture}
+              src="https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/picture.png"
               alt="Portrait of Leo Santos"
               className="pictureMe"
             />
