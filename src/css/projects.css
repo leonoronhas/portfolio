@@ -1,0 +1,80 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  font-size: 10vh;
+}
+
+.Typist .Cursor {
+  display: inline-block;
+}
+
+.Typist .Cursor--blinking {
+  opacity: 1;
+  animation: blink 1s linear infinite;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: black;
+  align-self: center;
+  padding: 20px;
+}
+
+.organizer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.project-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: black;
+  align-items: center;
+  width: 400px;
+  height: 350px;
+}
+.nameImages {
+  justify-content: "center";
+  align-items: "center";
+}
+
+.github {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+.images {
+  object-fit: contain;
+  max-width: 300px;
+  height: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text {
+  color: black;
+  font-size: 16px;
+  padding-top: 20px;
+}
+
+@media (max-width: 450px) {
+  .titles {
+    font-size: 5vh;
+    text-align: center;
+  }
+  .images {
+    max-width: 100%;
+    height: auto;
+  }
+  .title {
+    font-size: 8vh;
+  }
+}

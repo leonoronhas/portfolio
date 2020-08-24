@@ -1,0 +1,61 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 10vh;
+  }
+  
+  .Typist .Cursor {
+    display: inline-block;
+  }
+  
+  .Typist .Cursor--blinking {
+    opacity: 1;
+    animation: blink 1s linear infinite;
+  }
+
+  .experienceorganizer {
+    
+  }
+  
+  .content {
+    font-size: medium;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  li {
+    list-style-type: square;
+  }
+  
+  .experience {
+    justify-content: left;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  .titles {
+    font-size: 5vh;
+  }
+
+  @media (max-width: 450px) {
+    .titles {
+      font-size: 5vh;
+      text-align: center;
+    }
+    .content {
+      font-size: x-large;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .title {
+      font-size: 7vh;
+    }
+  }

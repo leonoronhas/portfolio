@@ -1,0 +1,60 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  /* text-align: center; */
+}
+.educationorganizer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.title {
+  font-size: 9vh;
+}
+
+.Typist .Cursor {
+  display: inline-block;
+}
+
+.Typist .Cursor--blinking {
+  opacity: 1;
+  animation: blink 1s linear infinite;
+}
+
+.content {
+  font-size: medium;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  list-style-type: square;
+}
+
+.education {
+  text-align: left;
+}
+
+.titles {
+  font-size: 5vh;
+}
+
+@media (max-width: 450px) {
+  .title {
+    font-size: 7vh;
+  }
+  .titles {
+    font-size: 4vh;
+    text-align: center;
+  }
+  .content {
+    font-size: medium;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

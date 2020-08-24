@@ -1,0 +1,19 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 10vh;
+  }
+  
+  .Typist .Cursor {
+    display: inline-block;
+  }
+  
+  .Typist .Cursor--blinking {
+    opacity: 1;
+    animation: blink 1s linear infinite;
+  }
+  
