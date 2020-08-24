@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/www.leonoronhas.com/static/css/main.45bc39bf.chunk.css",
+    "main.js": "/www.leonoronhas.com/static/js/main.1ad81a76.chunk.js",
+    "main.js.map": "/www.leonoronhas.com/static/js/main.1ad81a76.chunk.js.map",
+    "runtime-main.js": "/www.leonoronhas.com/static/js/runtime-main.3611196f.js",
+    "runtime-main.js.map": "/www.leonoronhas.com/static/js/runtime-main.3611196f.js.map",
+    "static/css/2.16d7ab90.chunk.css": "/www.leonoronhas.com/static/css/2.16d7ab90.chunk.css",
+    "static/js/2.4a4b1e55.chunk.js": "/www.leonoronhas.com/static/js/2.4a4b1e55.chunk.js",
+    "static/js/2.4a4b1e55.chunk.js.map": "/www.leonoronhas.com/static/js/2.4a4b1e55.chunk.js.map",
+    "index.html": "/www.leonoronhas.com/index.html",
+    "precache-manifest.f8d5c0fd49d6288bef5ee6dbdf9b9df3.js": "/www.leonoronhas.com/precache-manifest.f8d5c0fd49d6288bef5ee6dbdf9b9df3.js",
+    "service-worker.js": "/www.leonoronhas.com/service-worker.js",
+    "static/css/2.16d7ab90.chunk.css.map": "/www.leonoronhas.com/static/css/2.16d7ab90.chunk.css.map",
+    "static/css/main.45bc39bf.chunk.css.map": "/www.leonoronhas.com/static/css/main.45bc39bf.chunk.css.map",
+    "static/js/2.4a4b1e55.chunk.js.LICENSE.txt": "/www.leonoronhas.com/static/js/2.4a4b1e55.chunk.js.LICENSE.txt",
+    "static/media/foodApp.gif": "/www.leonoronhas.com/static/media/foodApp.e29c24bc.gif",
+    "static/media/guessApp.gif": "/www.leonoronhas.com/static/media/guessApp.2831811a.gif",
+    "static/media/picture.png": "/www.leonoronhas.com/static/media/picture.13e9cc8e.png",
+    "static/media/restfulapi.png": "/www.leonoronhas.com/static/media/restfulapi.6dc958aa.png",
+    "static/media/website.gif": "/www.leonoronhas.com/static/media/website.426afd25.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3611196f.js",
+    "static/css/2.16d7ab90.chunk.css",
+    "static/js/2.4a4b1e55.chunk.js",
+    "static/css/main.45bc39bf.chunk.css",
+    "static/js/main.1ad81a76.chunk.js"
+  ]
+}
