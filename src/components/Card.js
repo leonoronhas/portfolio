@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardTitle, CardImg, CardBody } from "shards-react";
+import { Card, CardTitle, CardBody } from "shards-react";
 
 import "../css/card.css";
 const DefaultCard = (props) => {
@@ -7,15 +7,23 @@ const DefaultCard = (props) => {
     <Card className="card">
       <CardTitle>{props.title}</CardTitle>
       <CardBody>
-        <div style={{display: "flex", flexWrap: 'wrap', justifyContent: 'space-between'}}>
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            justifyContent: "space-evenly",
+          }}
+        >
           <p>{props.tech[0]}</p>
           <p>{props.tech[1]}</p>
           <p>{props.tech[2]}</p>
           <p>{props.tech[3]}</p>
           <p>{props.tech[4]}</p>
-          </div>
+        </div>
       </CardBody>
-      <CardImg bottom src={props.img} />
+      <div className="imgContainer">
+        <img src={props.img} className="images" alt="Project screenshot"/>
+      </div>
     </Card>
   );
 };
