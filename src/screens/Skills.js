@@ -2,7 +2,7 @@ import React from "react";
 import Typist from "react-typist";
 
 import "../css/skills.css";
-// import "../css/animate.css";
+import "../css/animate.css";
 
 const Skills = (props) => {
   return (
