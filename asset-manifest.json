@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/leonoronhas.com/static/css/main.45bc39bf.chunk.css",
-    "main.js": "/leonoronhas.com/static/js/main.f7559b66.chunk.js",
-    "main.js.map": "/leonoronhas.com/static/js/main.f7559b66.chunk.js.map",
+    "main.js": "/leonoronhas.com/static/js/main.130ee114.chunk.js",
+    "main.js.map": "/leonoronhas.com/static/js/main.130ee114.chunk.js.map",
     "runtime-main.js": "/leonoronhas.com/static/js/runtime-main.7c483915.js",
     "runtime-main.js.map": "/leonoronhas.com/static/js/runtime-main.7c483915.js.map",
     "static/css/2.16d7ab90.chunk.css": "/leonoronhas.com/static/css/2.16d7ab90.chunk.css",
-    "static/js/2.4a4b1e55.chunk.js": "/leonoronhas.com/static/js/2.4a4b1e55.chunk.js",
-    "static/js/2.4a4b1e55.chunk.js.map": "/leonoronhas.com/static/js/2.4a4b1e55.chunk.js.map",
+    "static/js/2.1f971e4e.chunk.js": "/leonoronhas.com/static/js/2.1f971e4e.chunk.js",
+    "static/js/2.1f971e4e.chunk.js.map": "/leonoronhas.com/static/js/2.1f971e4e.chunk.js.map",
     "index.html": "/leonoronhas.com/index.html",
-    "precache-manifest.25f0f8a3963ad96705c6a892669a3e01.js": "/leonoronhas.com/precache-manifest.25f0f8a3963ad96705c6a892669a3e01.js",
+    "precache-manifest.6e03af983195058ea4100a3c1136f4ce.js": "/leonoronhas.com/precache-manifest.6e03af983195058ea4100a3c1136f4ce.js",
     "service-worker.js": "/leonoronhas.com/service-worker.js",
     "static/css/2.16d7ab90.chunk.css.map": "/leonoronhas.com/static/css/2.16d7ab90.chunk.css.map",
     "static/css/main.45bc39bf.chunk.css.map": "/leonoronhas.com/static/css/main.45bc39bf.chunk.css.map",
-    "static/js/2.4a4b1e55.chunk.js.LICENSE.txt": "/leonoronhas.com/static/js/2.4a4b1e55.chunk.js.LICENSE.txt",
+    "static/js/2.1f971e4e.chunk.js.LICENSE.txt": "/leonoronhas.com/static/js/2.1f971e4e.chunk.js.LICENSE.txt",
     "static/media/foodApp.gif": "/leonoronhas.com/static/media/foodApp.e29c24bc.gif",
     "static/media/guessApp.gif": "/leonoronhas.com/static/media/guessApp.2831811a.gif",
     "static/media/picture.png": "/leonoronhas.com/static/media/picture.13e9cc8e.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.7c483915.js",
     "static/css/2.16d7ab90.chunk.css",
-    "static/js/2.4a4b1e55.chunk.js",
+    "static/js/2.1f971e4e.chunk.js",
     "static/css/main.45bc39bf.chunk.css",
-    "static/js/main.f7559b66.chunk.js"
+    "static/js/main.130ee114.chunk.js"
   ]
 }
