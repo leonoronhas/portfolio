@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/www.leonoronhas.com/static/css/main.45bc39bf.chunk.css",
-    "main.js": "/www.leonoronhas.com/static/js/main.1ad81a76.chunk.js",
-    "main.js.map": "/www.leonoronhas.com/static/js/main.1ad81a76.chunk.js.map",
-    "runtime-main.js": "/www.leonoronhas.com/static/js/runtime-main.3611196f.js",
-    "runtime-main.js.map": "/www.leonoronhas.com/static/js/runtime-main.3611196f.js.map",
-    "static/css/2.16d7ab90.chunk.css": "/www.leonoronhas.com/static/css/2.16d7ab90.chunk.css",
-    "static/js/2.4a4b1e55.chunk.js": "/www.leonoronhas.com/static/js/2.4a4b1e55.chunk.js",
-    "static/js/2.4a4b1e55.chunk.js.map": "/www.leonoronhas.com/static/js/2.4a4b1e55.chunk.js.map",
-    "index.html": "/www.leonoronhas.com/index.html",
-    "precache-manifest.efdd0c36fee3252e19c8b5d9781254ca.js": "/www.leonoronhas.com/precache-manifest.efdd0c36fee3252e19c8b5d9781254ca.js",
-    "service-worker.js": "/www.leonoronhas.com/service-worker.js",
-    "static/css/2.16d7ab90.chunk.css.map": "/www.leonoronhas.com/static/css/2.16d7ab90.chunk.css.map",
-    "static/css/main.45bc39bf.chunk.css.map": "/www.leonoronhas.com/static/css/main.45bc39bf.chunk.css.map",
-    "static/js/2.4a4b1e55.chunk.js.LICENSE.txt": "/www.leonoronhas.com/static/js/2.4a4b1e55.chunk.js.LICENSE.txt",
-    "static/media/foodApp.gif": "/www.leonoronhas.com/static/media/foodApp.e29c24bc.gif",
-    "static/media/guessApp.gif": "/www.leonoronhas.com/static/media/guessApp.2831811a.gif",
-    "static/media/picture.png": "/www.leonoronhas.com/static/media/picture.13e9cc8e.png",
-    "static/media/restfulapi.png": "/www.leonoronhas.com/static/media/restfulapi.6dc958aa.png",
-    "static/media/website.gif": "/www.leonoronhas.com/static/media/website.426afd25.gif"
+    "main.css": "/leonoronhas.github.io/static/css/main.45bc39bf.chunk.css",
+    "main.js": "/leonoronhas.github.io/static/js/main.263a3b25.chunk.js",
+    "main.js.map": "/leonoronhas.github.io/static/js/main.263a3b25.chunk.js.map",
+    "runtime-main.js": "/leonoronhas.github.io/static/js/runtime-main.fb8a100d.js",
+    "runtime-main.js.map": "/leonoronhas.github.io/static/js/runtime-main.fb8a100d.js.map",
+    "static/css/2.16d7ab90.chunk.css": "/leonoronhas.github.io/static/css/2.16d7ab90.chunk.css",
+    "static/js/2.4a4b1e55.chunk.js": "/leonoronhas.github.io/static/js/2.4a4b1e55.chunk.js",
+    "static/js/2.4a4b1e55.chunk.js.map": "/leonoronhas.github.io/static/js/2.4a4b1e55.chunk.js.map",
+    "index.html": "/leonoronhas.github.io/index.html",
+    "precache-manifest.6630dd1c962f2ffee19209b0b51fcf6c.js": "/leonoronhas.github.io/precache-manifest.6630dd1c962f2ffee19209b0b51fcf6c.js",
+    "service-worker.js": "/leonoronhas.github.io/service-worker.js",
+    "static/css/2.16d7ab90.chunk.css.map": "/leonoronhas.github.io/static/css/2.16d7ab90.chunk.css.map",
+    "static/css/main.45bc39bf.chunk.css.map": "/leonoronhas.github.io/static/css/main.45bc39bf.chunk.css.map",
+    "static/js/2.4a4b1e55.chunk.js.LICENSE.txt": "/leonoronhas.github.io/static/js/2.4a4b1e55.chunk.js.LICENSE.txt",
+    "static/media/foodApp.gif": "/leonoronhas.github.io/static/media/foodApp.e29c24bc.gif",
+    "static/media/guessApp.gif": "/leonoronhas.github.io/static/media/guessApp.2831811a.gif",
+    "static/media/picture.png": "/leonoronhas.github.io/static/media/picture.13e9cc8e.png",
+    "static/media/restfulapi.png": "/leonoronhas.github.io/static/media/restfulapi.6dc958aa.png",
+    "static/media/website.gif": "/leonoronhas.github.io/static/media/website.426afd25.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.3611196f.js",
+    "static/js/runtime-main.fb8a100d.js",
     "static/css/2.16d7ab90.chunk.css",
     "static/js/2.4a4b1e55.chunk.js",
     "static/css/main.45bc39bf.chunk.css",
-    "static/js/main.1ad81a76.chunk.js"
+    "static/js/main.263a3b25.chunk.js"
   ]
 }
