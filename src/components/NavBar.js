@@ -91,7 +91,7 @@ const NavBar = () => {
               </div>
             </Nav.Link>
             <Nav.Link
-              href="https://www.instagram.com/leonoron/"
+              href="https://www.instagram.com/leonoronhas/"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -17,7 +17,7 @@ const projectsData = {
     {
       id: 1,
       name: "LeoNoronhaSantos",
-      url: "https://www.leonoronhas.com",
+      url: "https://github.com/leonoronhas/portfolio",
       img: "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/website.gif",
       technologies: [
         "HTML",
