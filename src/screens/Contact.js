@@ -14,7 +14,10 @@ const Contact = (props) => {
       </div>
       <div className="intro-landing animated fadeInUp delay-2s">
         <div className="content">
-          <p>Hello guys!</p>
+        <div style={{display: 'flex', flexDirection: "column", justifyContent: 'center', alignItems: "center"}}>
+          <img src="" alt="Chat logo"/>
+        <a href="https://calendly.com/leonoronhas/chat-with-me" className="bg-link-chat">LET&#x27;S CHAT!</a>
+        </div>
         </div>
       </div>
     </div>

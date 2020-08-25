@@ -42,6 +42,7 @@ li {
   font-size: 5vh;
 }
 
+/* Most phones */
 @media (max-width: 450px) {
   .Typist {
     font-size: 7vh;
@@ -58,7 +59,7 @@ li {
     align-items: center;
   }
 }
-
+/* tablets and ipads */
 @media (max-width: 1050px) {
   .Typist {
     font-size: 6vh;
@@ -68,11 +69,10 @@ li {
     text-align: center;
   }
   .educationorganizer {
-
     justify-content: flex-start;
   }
 }
-
+/* 15" laptops */
 @media (max-width: 1800px) {
   .Typist {
     font-size: 10vh;
@@ -82,7 +82,7 @@ li {
     text-align: center;
   }
 }
-
+/* 24" or bigger monitors */
 @media (max-width: 2300px) {
   .Typist {
     font-size: 10vh;
