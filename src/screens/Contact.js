@@ -14,10 +14,41 @@ const Contact = (props) => {
       </div>
       <div className="intro-landing animated fadeInUp delay-2s">
         <div className="content">
-        <div style={{display: 'flex', flexDirection: "column", justifyContent: 'center', alignItems: "center"}}>
-          <img src="" alt="Chat logo"/>
-        <a href="https://calendly.com/leonoronhas/chat-with-me" className="bg-link-chat">LET&#x27;S CHAT!</a>
-        </div>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <img
+              src="https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/blackEmail.png"
+              alt="Email logo"
+            />
+            <a href="mailto:leosud099@gmail.com" className="bg-link-button">
+              EMAIL ME!
+            </a>
+          </div>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <img
+              src="https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/blackChat.png"
+              alt="Chat logo"
+            />
+            <a
+              href="https://calendly.com/leonoronhas/chat-with-me"
+              className="bg-link-button"
+            >
+              LET&#x27;S CHAT!
+            </a>
+          </div>
         </div>
       </div>
     </div>
