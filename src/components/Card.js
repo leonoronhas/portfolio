@@ -20,7 +20,7 @@ const DefaultCard = (props) => {
                 <div style={{ textAlign: "start" }}>{props.title}</div>
 
                 <div style={{ textAlign: "end" }}>
-                  <a href={props.url} target="_blank">
+                  <a href={props.url} target="_blank" rel="noopener noreferrer">
                     <img
                       src="https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/githubBlack.png"
                       alt="Github logo"
