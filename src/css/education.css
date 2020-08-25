@@ -6,7 +6,7 @@
 .educationorganizer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .title {
@@ -56,5 +56,39 @@ li {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+  }
+}
+
+@media (max-width: 1050px) {
+  .Typist {
+    font-size: 6vh;
+  }
+  .titles {
+    font-size: 4vh;
+    text-align: center;
+  }
+  .educationorganizer {
+
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 1800px) {
+  .Typist {
+    font-size: 10vh;
+  }
+  .titles {
+    font-size: 4vh;
+    text-align: center;
+  }
+}
+
+@media (max-width: 2300px) {
+  .Typist {
+    font-size: 10vh;
+  }
+  .titles {
+    font-size: 3.5vh;
+    text-align: center;
   }
 }

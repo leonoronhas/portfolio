@@ -55,6 +55,16 @@ li {
     align-items: center;
   }
   .Typist {
-    font-size: 7vh;
+    font-size: 6vh;
+  }
+}
+
+@media (max-width: 1050px) {
+  .Typist {
+    font-size: 6vh;
+  }
+  .titles {
+    font-size: 4vh;
+    text-align: center;
   }
 }
