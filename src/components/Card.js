@@ -1,8 +1,6 @@
 import React from "react";
 import { Card, CardTitle, CardBody } from "shards-react";
 
-import github from "../images/githubBlack.png";
-
 import "../css/card.css";
 
 const DefaultCard = (props) => {
@@ -22,8 +20,11 @@ const DefaultCard = (props) => {
                 <div style={{ textAlign: "start" }}>{props.title}</div>
 
                 <div style={{ textAlign: "end" }}>
-                  <a href={props.url}>
-                    <img src={github} alt="Github logo" />
+                  <a href={props.url} target="_blank">
+                    <img
+                      src="https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/githubBlack.png"
+                      alt="Github logo"
+                    />
                   </a>
                 </div>
               </div>
