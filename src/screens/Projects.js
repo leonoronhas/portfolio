@@ -8,7 +8,7 @@ import "../css/projects.css";
 import "../css/animate.css";
 
 const Projects = (props) => {
-  // const [active, setActive] = useState("All");
+
   const { projects } = projectsData;
 
   const getProjects = () => {

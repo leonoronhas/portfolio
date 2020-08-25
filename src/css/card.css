@@ -1,20 +1,79 @@
-.images {
-  position: absolute;
-  max-height: 250px;
+.cardContainer {
+  margin: 20px;
+}
+.card {
+  width: 350px;
+  max-height: 400px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.card {
-  width: 400px;
-  height: 400px;
+.cardTitle {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: -5px;
+}
+
+.cardBody {
+  padding: 10px;
 }
 
 .imgContainer {
-  width: 400px;
+  max-width: 400px;
   height: 400px;
   overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
   padding-bottom: 20px;
+}
+.images {
+  position: absolute;
+  max-height: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Size for most phones */
+@media (max-width: 450px) {
+  .cardContainer {
+    margin: 0px;
+    padding-bottom: 20px;
+  }
+  .card {
+    width: 310px;
+    max-height: 350px;
+  }
+  .cardBody {
+    padding: 0px;
+  }
+  .imgContainer {
+    max-width: 300px;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+}
+
+/* Ipad/tablet sizes */
+@media (max-width: 800px) {
+  .cardContainer {
+    margin: 0px;
+    padding-bottom: 20px;
+  }
+  .card {
+    width: 300px;
+    max-height: 350px;
+  }
+  .imgContainer {
+    max-width: 300px;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+  }
 }

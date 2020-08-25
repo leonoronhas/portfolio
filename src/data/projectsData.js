@@ -24,7 +24,7 @@ const projectsData = {
         "CSS",
         "JavaScript",
         "React.js",
-        "Redux / Hooks",
+        "Redux",
       ],
     },
     {
@@ -37,7 +37,7 @@ const projectsData = {
         "React Native",
         "JavaScript",
         "React.js",
-        "Redux / Hooks",
+        "Redux",
       ],
     },
     {
@@ -57,7 +57,7 @@ const projectsData = {
       name: "RESTful API tutorial",
       url: "https://www.linkedin.com/pulse/create-restful-api-nodejs-expressjs-mongodb-leonardo-noronha-santos/",
       img: "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/restfulapi.png",
-      technologies: ["MongoDB", "Express.js", "Node.js", "RESTful API"],
+      technologies: ["MongoDB", "Express", "Node", "REST"],
     },
   ],
 };
