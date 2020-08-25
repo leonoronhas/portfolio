@@ -2,6 +2,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-bottom: 0px;
 }
 
 .title {
@@ -21,6 +22,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  margin-bottom: 50px;
 }
 
 .content {
@@ -45,7 +47,26 @@ li {
   font-size: 5vh;
 }
 
+/* Most phones */
 @media (max-width: 450px) {
+  .titles {
+    font-size: 4vh;
+    text-align: center;
+  }
+  .content {
+    font-size: x-large;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .title {
+    font-size: 7vh;
+  }
+}
+
+/* Ipad/tablets */
+@media (max-width: 1100px) {
   .titles {
     font-size: 5vh;
     text-align: center;
@@ -56,6 +77,11 @@ li {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+  }
+  .skills {
+    justify-content: left;
+    text-align: left;
+    font-size: 3vh;
   }
   .title {
     font-size: 7vh;
