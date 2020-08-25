@@ -8,12 +8,12 @@ const Skills = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist startDelay={1000} avgTypingDelay={100}>
+        <Typist avgTypingDelay={150}>
           Skills
         </Typist>
       </div>
       <div className="skillsorganizer">
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="skills">
               <p className="titles">
@@ -27,7 +27,7 @@ const Skills = (props) => {
             </div>
           </div>
         </div>
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="skills">
               <p className="titles">
@@ -54,7 +54,7 @@ const Skills = (props) => {
             </div>
           </div>
         </div>
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="skills">
               <p className="titles">
@@ -79,7 +79,7 @@ const Skills = (props) => {
             </div>
           </div>
         </div>
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="skills">
               <p className="titles">
@@ -100,7 +100,7 @@ const Skills = (props) => {
             </div>
           </div>
         </div>
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="skills">
               <p className="titles">

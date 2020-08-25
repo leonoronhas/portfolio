@@ -12,7 +12,6 @@ const LandingPage = (props) => {
           <div className="body-landing">
             <h1 className="header-landing">
               <Typist
-                startDelay={700}
                 avgTypingDelay={100}
                 className="text-area"
               >
@@ -25,7 +24,7 @@ const LandingPage = (props) => {
             </p>
           </div>
         </div>
-        <div className="title-landing animated fadeInUp delay-4s">
+        <div className="title-landing animated fadeInUp delay-3s">
           <div>
             <a className="buttonStyle" href="/about">
               Learn more

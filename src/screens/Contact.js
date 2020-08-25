@@ -8,7 +8,7 @@ const Contact = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist startDelay={1000} avgTypingDelay={100}>
+        <Typist avgTypingDelay={150}>
           Contact
         </Typist>
       </div>

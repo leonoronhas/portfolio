@@ -29,11 +29,11 @@ const Projects = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist startDelay={1000} avgTypingDelay={100}>
+        <Typist avgTypingDelay={150}>
           Projects
         </Typist>
       </div>
-      <div className="intro-landing animated fadeInUp delay-2s">
+      <div className="intro-landing animated fadeInUp delay-1s">
         <div className="content">{getProjects()}</div>
       </div>
     </div>

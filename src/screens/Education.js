@@ -8,12 +8,12 @@ const Education = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist startDelay={1000} avgTypingDelay={100}>
+        <Typist avgTypingDelay={150}>
           Education
         </Typist>
       </div>
       <div className="educationorganizer">
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="education">
               <p className="titles">
@@ -35,7 +35,7 @@ const Education = (props) => {
             </div>
           </div>
         </div>
-        <div className="intro-landing animated fadeInUp delay-2s">
+        <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="education">
               <p className="titles">

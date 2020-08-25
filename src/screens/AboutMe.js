@@ -9,11 +9,11 @@ const AboutMe = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist startDelay={1000} avgTypingDelay={100}>
+        <Typist avgTypingDelay={150}>
           About
         </Typist>
       </div>
-      <div className="intro-landing animated fadeInUp delay-2s">
+      <div className="intro-landing animated fadeInUp delay-1s">
         <div className="contentPicture">
           <p>
             Hi, I am Leonardo Noronha Santos but you can call me Leo. I am a
@@ -23,7 +23,7 @@ const AboutMe = (props) => {
           </p>
         </div>
       </div>
-      <div className="intro-landing animated fadeInUp delay-3s">
+      <div className="intro-landing animated fadeInUp delay-1s">
         <div className="contentPicture">
           <div className="favorites">
             <p className="favoriteTitle">
