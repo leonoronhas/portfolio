@@ -62,7 +62,7 @@ const NavBar = () => {
 
           <Nav>
             <Nav.Link
-              href="https://drive.google.com/file/d/11K3vn21h9AqOgMDjC9gGAyZXPO59bGAY/view?usp=sharing"
+              href="https://drive.google.com/file/d/1UBZfN9OwJXF69eHTRbxS6Z9DbHFzkVSm/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
