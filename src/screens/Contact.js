@@ -26,7 +26,12 @@ const Contact = (props) => {
               src="https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/blackEmail.png"
               alt="Email logo"
             />
-            <a href="mailto:leosud099@gmail.com" className="bg-link-button">
+            <a
+              href="mailto:leosud099@gmail.com"
+              className="bg-link-button"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               EMAIL ME!
             </a>
           </div>
