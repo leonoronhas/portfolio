@@ -13,17 +13,17 @@ const AboutMe = (props) => {
           About
         </Typist>
       </div>
-      <div className="intro-landing animated fadeInUp delay-1s">
+      <div className="intro-landing animated fadeInUp">
         <div className="contentPicture">
           <p>
             Hi, I am Leonardo Noronha Santos but you can call me Leo. I am a
             Software Engineer that is passionate about coding and creating
             awesome software. I love learning new technologies and building
-            stuff from start to finish. Specially mobile applications!
+            stuff from start to finish, specially mobile applications!
           </p>
         </div>
       </div>
-      <div className="intro-landing animated fadeInUp delay-1s">
+      <div className="intro-landing animated fadeInUp">
         <div className="contentPicture">
           <div className="favorites">
             <p className="favoriteTitle">

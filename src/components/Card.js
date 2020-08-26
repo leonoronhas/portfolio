@@ -29,7 +29,7 @@ const DefaultCard = (props) => {
                 </div>
               </div>
               <strong>
-                <p>______________________________</p>
+                <p>________________________</p>
               </strong>
             </div>
           }
