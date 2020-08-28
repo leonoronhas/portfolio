@@ -52,7 +52,7 @@ const projectsData = {
       name: "Find the Image!",
       url: "https://www.github.com/leonoronhas/find-the-image",
       img:
-        "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/guessApp.gif",
+        "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/find-the-image.png",
       technologies: ["JSX", "React Native", "JavaScript", "Expo"],
     },
   ],
