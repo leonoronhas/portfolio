@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c54e2f24431b1f464f9adaa70b523a9",
+    "revision": "9113fb88e04f3741157bed0391d36936",
     "url": "/leonoronhas.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leonoronhas.com/static/css/2.16d7ab90.chunk.css"
   },
   {
-    "revision": "0efe4ee1a5bb4dffc054",
+    "revision": "f081bce0168f34948c80",
     "url": "/leonoronhas.com/static/css/main.b167cf39.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leonoronhas.com/static/js/2.0f562a8e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0efe4ee1a5bb4dffc054",
-    "url": "/leonoronhas.com/static/js/main.a8e0e094.chunk.js"
+    "revision": "f081bce0168f34948c80",
+    "url": "/leonoronhas.com/static/js/main.2de685d5.chunk.js"
   },
   {
     "revision": "99a09674f1f14d6d4b77",
