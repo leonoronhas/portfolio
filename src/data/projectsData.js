@@ -15,6 +15,14 @@ const projectsData = {
   ],
   projects: [
     {
+      id: 5,
+      name: "Match the Number!",
+      url: "https://www.github.com/leonoronhas/match-the-number",
+      img:
+        "https://raw.githubusercontent.com/leonoronhas/match-the-number/master/assets/images/screenshots/homeScreen.png",
+      technologies: ["JSX", "React Native", "JavaScript", "Hooks"],
+    },
+    {
       id: 1,
       name: "Leo Noronha Santos",
       url: "https://github.com/leonoronhas/portfolio",
@@ -46,14 +54,6 @@ const projectsData = {
       img:
         "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/guessApp.gif",
       technologies: ["JSX", "React Native", "JavaScript", "React.js"],
-    },
-    {
-      id: 5,
-      name: "Find the Image!",
-      url: "https://www.github.com/leonoronhas/find-the-image",
-      img:
-        "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/find-the-image.png",
-      technologies: ["JSX", "React Native", "JavaScript", "Expo"],
     },
   ],
 };
