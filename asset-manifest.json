@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/leonoronhas.com/static/css/main.2c9f628f.chunk.css",
+    "main.css": "/leonoronhas.com/static/css/main.b167cf39.chunk.css",
     "main.js": "/leonoronhas.com/static/js/main.0541febe.chunk.js",
     "main.js.map": "/leonoronhas.com/static/js/main.0541febe.chunk.js.map",
     "runtime-main.js": "/leonoronhas.com/static/js/runtime-main.7c483915.js",
@@ -9,17 +9,17 @@
     "static/js/2.0f562a8e.chunk.js": "/leonoronhas.com/static/js/2.0f562a8e.chunk.js",
     "static/js/2.0f562a8e.chunk.js.map": "/leonoronhas.com/static/js/2.0f562a8e.chunk.js.map",
     "index.html": "/leonoronhas.com/index.html",
-    "precache-manifest.a31b34ea7ea7d7b9273b223fbdb13f1f.js": "/leonoronhas.com/precache-manifest.a31b34ea7ea7d7b9273b223fbdb13f1f.js",
+    "precache-manifest.2b72b77025baff8ff187be733de202a4.js": "/leonoronhas.com/precache-manifest.2b72b77025baff8ff187be733de202a4.js",
     "service-worker.js": "/leonoronhas.com/service-worker.js",
     "static/css/2.16d7ab90.chunk.css.map": "/leonoronhas.com/static/css/2.16d7ab90.chunk.css.map",
-    "static/css/main.2c9f628f.chunk.css.map": "/leonoronhas.com/static/css/main.2c9f628f.chunk.css.map",
+    "static/css/main.b167cf39.chunk.css.map": "/leonoronhas.com/static/css/main.b167cf39.chunk.css.map",
     "static/js/2.0f562a8e.chunk.js.LICENSE.txt": "/leonoronhas.com/static/js/2.0f562a8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c483915.js",
     "static/css/2.16d7ab90.chunk.css",
     "static/js/2.0f562a8e.chunk.js",
-    "static/css/main.2c9f628f.chunk.css",
+    "static/css/main.b167cf39.chunk.css",
     "static/js/main.0541febe.chunk.js"
   ]
 }
