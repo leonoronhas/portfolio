@@ -23,6 +23,14 @@ const projectsData = {
       technologies: ["JSX", "React Native", "JavaScript", "Hooks"],
     },
     {
+      id: 6,
+      name: "E-commerce",
+      url: "https://github.com/leonoronhas/node-ecommerce",
+      img:
+        "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/e-commerce.png",
+      technologies: ["HTML", "CSS", "MongoDB", "Node.js"],
+    },
+    {
       id: 1,
       name: "Leo Noronha Santos",
       url: "https://github.com/leonoronhas/portfolio",
