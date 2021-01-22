@@ -8,9 +8,7 @@ const Education = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist avgTypingDelay={150}>
-          Education
-        </Typist>
+        <Typist avgTypingDelay={150}>Education</Typist>
       </div>
       <div className="educationorganizer">
         <div className="intro-landing animated fadeInUp delay-1s">
@@ -20,7 +18,7 @@ const Education = (props) => {
                 <strong>Brigham Young University Idaho</strong>
               </p>
               <h4>Bachelor of Software Engineering</h4>
-              <li>GPA: 3.89</li>
+              <li>GPA: 3.91</li>
               <li>Graduation: April 2022 </li>
               <br />
               <p>
@@ -32,6 +30,9 @@ const Education = (props) => {
               <li>CS 235 Data Structures (C++)</li>
               <li>CS 246 Software Design & Development (Java, Android)</li>
               <li>CS 308 Technical Communications</li>
+              <li>CSE 341 Web Backend (Node.js, Express.js, MongoDB)</li>
+              <li>CS 364 Software Engineering (SRS, SDD)</li>
+              <li>CSE 471 User Interface Eval & Design</li>
             </div>
           </div>
         </div>
