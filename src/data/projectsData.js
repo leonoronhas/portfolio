@@ -31,6 +31,14 @@ const projectsData = {
       technologies: ["HTML", "CSS", "MongoDB", "Node.js"],
     },
     {
+      id: 7,
+      name: "Ivan Countertops",
+      url: "https://www.ivancountertops.com/",
+      img:
+        "https://raw.githubusercontent.com/leonoronhas/portfolio/master/src/images/ivan.png",
+      technologies: ["HTML", "CSS", "JavaScript", "ECMAScript6"],
+    },
+    {
       id: 1,
       name: "Leo Noronha Santos",
       url: "https://github.com/leonoronhas/portfolio",
