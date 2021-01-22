@@ -40,8 +40,11 @@ const Skills = (props) => {
               <li>Firebase</li>
               <li>MERN stack</li>
               <li>MongoDB</li>
+              <li>PostgreSQL</li>
               <li>mongoose</li>
               <li>axios</li>
+              <li>Tailwind CSS</li>
+              <li>Bootstrap CSS</li>
               <li>Express.js</li>
               <li>Node.js</li>
               <li>Heroku</li>

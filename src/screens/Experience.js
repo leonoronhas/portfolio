@@ -8,11 +8,36 @@ const Experience = (props) => {
   return (
     <div className="container">
       <div className="title">
-        <Typist avgTypingDelay={150}>
-          Experience
-        </Typist>
+        <Typist avgTypingDelay={150}>Experience</Typist>
       </div>
       <div className="experienceorganizer">
+        <div className="intro-landing animated fadeInUp delay-1s">
+          <div className="content">
+            <div className="experience">
+              <p className="titles">
+                <strong>Full-Stack Developer</strong>
+              </p>
+              <h4>Horizon PWR</h4>
+              <h6>Rexburg, Idaho | 12/2020 - present</h6>
+              <li>
+                Improved NodeJS server side loading by 89.37% decreasing total loading time from
+                47 seconds to 5 seconds.
+              </li>
+              <li>
+                Responsible for modifying , creating, and updating User Interfaces using TailwindCSS version 2, improving overall
+                functionalities using in-house specifications, polices, and standards
+              </li>
+              <li>
+                Contributed to transitioning the Salesforce DB to a new
+                PostgreSQL Database instance
+              </li>
+              <li>
+                Responsible for Design, Quality Assurance, and other processes
+                related to the development and testing of new features
+              </li>
+            </div>
+          </div>
+        </div>
         <div className="intro-landing animated fadeInUp delay-1s">
           <div className="content">
             <div className="experience">
@@ -56,7 +81,7 @@ const Experience = (props) => {
                 <strong>Faculty Technology Assistant</strong>
               </p>
               <h4>Brigham Young University Idaho</h4>
-              <h6>Rexburg, Idaho | 02/2019 - Present</h6>
+              <h6>Rexburg, Idaho | 02/2019 - 12/2020</h6>
               <li> Train all faculty with current and new technologies</li>
               <li>
                 Provide tutorials to make sure all the software required is
